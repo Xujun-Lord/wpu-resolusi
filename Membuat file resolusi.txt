@@ -2,3 +2,5 @@ WPU RESOLUSI
 -Hidup
 -Platform pengelolaan vidio
 -Membuat forum diskusi
+-workshop
+-colab banyak expert
